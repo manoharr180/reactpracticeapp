@@ -1,0 +1,42 @@
+        .body{
+            display: block;
+            color: blue;
+            height: auto;
+            width: auto;
+            background-color: antiquewhite;
+            padding-top: 1em;
+            border-radius: 5px;
+            
+        }
+        
+
+        .pd{
+            padding-bottom: 2em;
+        }
+
+
+        /* @media (min-width: 1200px) {
+            #footer {
+              margin-left: 300px;
+            }
+          } */
+
+
+          .footer {
+            padding: 20px 0;
+            font-size: 14px;
+            transition: all 0.3s;
+            border-top: 1px solid #cddfff;
+            background-color: #E7E9EB;
+            border-radius: 5px;
+          }
+          .footer .copyright {
+            text-align: center;
+            color: #012970;
+          }
+          .footer .credits {
+            padding-top: 5px;
+            text-align: center;
+            font-size: 13px;
+            color: #012970;
+          }
